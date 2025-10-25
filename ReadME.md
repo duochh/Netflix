@@ -1,5 +1,7 @@
 ## Setting Up the Netflix Clone Application
 
+- [DAY-8 | Real-Time Netflix Clone | DevOps Shack](https://www.youtube.com/watch?v=2XKsUrSyAUg&list=PLAdTNzDIZj_9C6qKZ3wE8t97OXqUZkzpB&index=10).
+
 Follow these steps to set up and run the Netflix clone application on your local machine:
 
 ### 1. Update Package List
